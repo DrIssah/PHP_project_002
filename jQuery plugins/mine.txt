@@ -1,0 +1,14 @@
+<div id="slider"
+                        class="cycle-slideshow" 
+                        data-cycle-pause-on-hover="true" 
+                        data-cycle-pager="#slideNavigation" 
+                        data-cycle-caption-plugin="caption2"
+                        data-cycle-timeout="3000"
+                        data-cycle-pager-template="<span></span>" 
+                        data-cycle-overlay-template="<h3>{{title}}</h3>  <p>{{desc}}</p> "
+                        data-cycle-overlay=".cycle-overlay"
+                        data-cycle-pager-event="mouseover"
+                        >
+<img src....
+<img src...
+</div>
