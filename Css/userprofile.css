@@ -1,0 +1,196 @@
+body{padding:0; margin:0px;padding:5px;background-color:#CCCCFF}
+
+
+#userimage{
+height:100px;
+
+}
+.img-circle {
+    
+	border-radius: 50%;
+	float:right;
+ }
+
+
+
+
+
+#Content{
+ background-color:#CCFFFF;
+ margin:auto;
+ margin-left:10%;
+ margin-right:10%;
+ width:80%;
+ margin-top:0px;
+ padding:5px;
+ height:800px;
+}
+
+
+
+
+
+#title{
+    margin-left:00%;
+    margin-right:00%;
+	background:#6699CC; 
+	color:#000000;
+	padding:5px;
+	height:60px;
+
+}
+#tt1{
+font-size:34px;
+float:left;
+height:60px;
+font-family:Algerian;
+
+}
+
+
+
+#tt2{
+font-size:18px;
+float:right;
+height:60px;
+
+}
+
+#tt3{
+font-size:12px;
+float:right;
+height:60px;
+font-family:Old English Text MT;
+
+
+}
+#tt3 label{
+font-size:12px;
+text-align:center;
+color:#CC0000;
+line-height:60px;
+font-family:"Times New Roman", Times, serif;
+
+
+
+}
+
+
+a{
+ text-decoration:none;
+ color:#000000;
+ font-size:15px;
+}
+
+
+#topmenu{
+  text-align:right;
+  background:#66FFFF;
+  color: #660099;
+  padding:0.5px;
+  height:50px; 
+  margin-left:0%;
+  margin-right:0%;
+  margin-top:0px;
+  width:100%;
+}
+
+
+#topmenu  li{
+   display:block;
+   list-style:none;
+   padding:4px;
+   font:bold 19px Tohoma;
+   position:absolute;
+   width:800px;
+   height:30px;
+   margin-right:1px;
+   background:#FFFFFF;
+   color:#CCCCCC;
+   font-size:12px;
+   float:left;
+   text-align:center;
+   margin-left:10%;
+   
+}
+
+#topmenu ul  li{
+   display:block;
+   text-decoration:none;
+   margin-left:10%;
+   margin-right:10%;
+   margin-top:10%;
+   margin:00%;
+   background-color:;
+   height:40px;
+   border-radius:0px;
+   width:142.9px;
+   padding:5px;
+   text-align:left;
+   line-height:40px;
+   font-size:13px;
+   float:left;
+   text-align:center;
+   position:relative;
+   
+}
+
+
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline;
+    position: relative;
+	padding-right:5px;
+	margin-right:10%;
+}
+
+
+ul ul {
+    position: absolute;
+    display: none;
+}
+
+li:hover ul {
+    display: block;
+	background:#FF0000;
+    
+}
+
+li a:hover{
+   display:block;
+   background:#000000;
+   color:#FFFFFF;
+}
+
+
+
+
+
+#content2{
+ background-color:#99CCCC;
+ height:outo;
+ margin-left:25%;
+ margin-right:25%;
+ width:50%;
+ font-family:"Times New Roman", Times, serif;
+ color:#000099;
+ margin-top:80px;
+ 
+ background-color:#fff;
+    border-width:3px;
+    border-style:solid;
+    border-bottom-color:#aaa;
+    border-right-color:#aaa;
+    border-top-color:#ddd;
+    border-left-color:#9999FF;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+

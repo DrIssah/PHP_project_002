@@ -1,0 +1,171 @@
+body{
+     padding:0;
+     margin:1px;
+	 padding:5px;
+	 background-color:#CCCCFF;
+}
+
+#content{
+ background-color:#CCFFFF;
+ margin-left:10%;
+ margin-right:10%;
+ margin-top:0px;
+     
+}
+#logCover{
+     margin-left:10%;
+	 width:98%;
+     margin-right:1o%; 
+	 background-color:#CCFFFF;
+     height:50px;
+     margin-top:0px;
+	 border-radius:1px;
+     font-family:Comic Sans MS;
+     float:left;
+}
+
+#title{
+    margin-left:00%;
+    margin-right:00%;
+	background:#CCFFFF; 
+	color:#000000;
+	padding:5px
+}
+
+#title h2{
+    text-align:center;
+	font-family: "Times New Roman";
+	font-size:20px;
+	size:inherit;
+}
+
+
+
+
+#bigtwo{
+height:auto;
+background-color:#99FFFF;
+width:48%;
+float:left;
+margin-top:1px;
+margin-right:0;
+margin-left:1%;
+}
+
+#bigtwo{
+
+width:50%;
+float:left;
+margin-left:0px;
+background-color:#CCCCCC;
+margin-top:1px;
+
+height:auto;
+}
+
+#advert1{
+background-color:#FFFFFF;
+height:400px;
+width:360px;
+float:left;
+
+}
+
+#advert2{
+background-color:#0099FF;
+height:400px;
+width:275px;
+float:left;
+font-family:Gill Sans MT Condensed;
+
+}
+
+#advert2 ul li a{
+text-decoration:none;
+font-family:Lucida Handwriting;
+
+}
+
+
+#logo1{height:150px; width:150px;float:left;margin-left:2px;margin-top:2px}
+#text{height:150px;width:450px;float:left;}
+
+
+#text p{font-family:Algerian;font-size:24px;text-align:center}
+#logo2{height:150px; width:150px;float:right;margin-right:2px;margin-top:2px}
+
+#Content{margin-left:1%;width:98%;margin-right:1%; background-color:#CCCCCC;height:300px;
+
+margin-top:1px;border-radius:1px}
+<!--#contentLogo{height:200px; width:200px;
+<!--float:left;background-color:#CCCCCC;margin-left:2px;margin-right:2px;}
+-->
+
+#logForm{
+      height:200px;
+	  width:49%;
+	  float:left;
+	  background-color:#CCCCCC;
+	  margin-left:3px;
+	  margin-right:2px;
+	  border-radius:2px;
+	  margin:5px;
+}
+
+#logForm input{
+      height:25px;
+	  width:160px; 
+	  border-radius:0px
+	  color:#0000CC;
+}
+
+fieldset{
+ background: #CCFFFF;
+ margin-left:0px;
+ margin-right:0px;
+ margin-top:opx;
+}
+
+input {
+ background:#FFFFFF;
+ color:#000066;
+}
+
+
+
+tr{
+ color:#000000;
+}
+
+#logForm select{
+      height:25px;
+	  width:140px;
+	  background-color:#0033FF;
+	  border-radius:10px	   
+}
+
+
+#logForm input:hover{
+      background-color:#CCFFFF; 
+}
+
+#footer{
+     margin-left:0%;
+	 width:49%;
+	 margin-right:0%;
+	 background-color:#CCCCCC;
+	 height:200px;
+     margin-top:1px;
+     border-radius:1px;
+	 margin-bottom:3px;
+	 float:right;
+}
+
+#footer p{
+    color:#6699FF; 
+	text-align:center; 
+	font-size:18px; 
+	font-family:Comic Sans MS;
+	
+}
+
